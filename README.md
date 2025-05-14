@@ -184,8 +184,9 @@
 </div>
 
 -----
+# contador de views
 
-
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=arthur140p"/>
 
 
 
