@@ -1,48 +1,48 @@
 ## Hi there 👋
 
 
-### Emojis e gists
-- [Emoji Cheat Sheet - Ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- [Emoji Shortcodes Gist](https://gist.github.com/rxaviers/7360908)
 
-### Resumo de perfis e estatísticas
-- [GitHub Profile Summary Cards Demo](https://github-profile-summary-cards.vercel.app/demo.html)
-- [GitHub Profile Summary Cards - VN7N24FZKQ](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div>
+<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png?raw=true"/>
+</div>
 
-### Trends e contribuições
-- [GitHub Trends](https://www.githubtrends.io/)
-- [GitHub Trends - Avgupta456](https://github.com/avgupta456/github-trends)
-- [PostSpark - GitHub Contributions](https://postspark.app/github-contributions)
-- [Generate Snake Game](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+-----
 
-### Outras ferramentas
-- [Awesome GitHub Profile Readme - AbhishekNaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-- [Repo Roster - Nastyox](https://github.com/nastyox/Repo-Roster)
-- [Repo Roster Website](https://reporoster.com/)
-- [GitHub Marketplace](https://github.com/marketplace)
-
-## Imagens
-- [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
-
-### Tamanho padrão do banner
-- 1080x200
-
-### Para texto colorido
-- ${\color{red}Red}$
-- ${\color{red}R\color{green}G\color{blue}B}$
-
-## Git
-
-### Links úteis
-
-- [Download Git](https://git-scm.com/downloads)
-- [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git)
-- [GitHub - Tokens de Acesso](https://github.com/settings/tokens)
-- [Introdução ao Git - Documentação GitHub](https://docs.github.com/en/get-started/getting-started-with-git)
-- [Gerenciando Tokens Pessoais no GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
-- [GitHub Desktop - Download](https://desktop.github.com/download/)
-- [Oh My Git!](https://ohmygit.org/)
-- [Git Cheat Sheet (GitHub Education)](https://education.github.com/git-cheat-sheet-education.pdf)
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
 
 <!--
 **Arthur140p/arthur140p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
