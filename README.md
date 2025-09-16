@@ -1,13 +1,15 @@
-## Hi there 👋
+<img width="1546" height="423" alt="header" src="https://github.com/user-attachments/assets/dbb867ff-f842-493b-9f88-f3f12ee34dd5" /> 
  
 
 
-<div>
-<img align="center" alt="Header" src="https://arthur140p.github.io/image/header_aramuni.png?raw=true"/>
-</div>
+
+
+
+
+
 
 -----
-## header
+
 
 <div align="center">
 <table>
@@ -15,25 +17,16 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/arthur140p" target="_blank"><img src="https://arthur140p.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/arthur140p" target="_blank"> <img width="70" height="500" alt="github" src="https://github.com/user-attachments/assets/61972be4-515c-4ee3-af5d-afae27279611" /></a>
 </td>
-<td><a href="mailto:arthuravila2017@gmail.com" target="_blank"><img src="https://arthur140p.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:arthuravila2017@gmail.com" target="_blank"><img width="70" height="500" alt="gmail" src="https://github.com/user-attachments/assets/614e004b-4991-453a-9862-deb9abe6e3c1" /></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://arthur140p.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/arthuravila0/" target="_blank"><img width="70" height="500" alt="insta" src="https://github.com/user-attachments/assets/edd9afd8-37a0-4edc-ab2f-bbdbe37161d3" /></a>
 </td>
-<td><a href="https://www.instagram.com/arthuravila0/" target="_blank"><img src="https://arthur140p.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/arthur140p/" target="_blank"><img width="70" height="500" alt="linked" src="https://github.com/user-attachments/assets/49833dfb-b2ba-4243-ba9e-dccec24aeb56" /></a>
+<td><a href="https://wa.me/5531998912470" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="500"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/arthur140p/" target="_blank"><img src="https://arthur140p.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://arthur140p.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://arthur140p.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://arthur140p.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://arthur140p.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://arthur140p.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img width="70" height="500" alt="disc" src="https://github.com/user-attachments/assets/f20f0e6b-4c56-4fa9-8647-248ef8fee148" /></a>
 </td>
 </tr>
 <tr>
@@ -44,9 +37,8 @@
 ----
 
 
-#statis
 
------
+
 
 <div>
 
@@ -68,26 +60,11 @@
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur140p&layout=pie&theme=dark&locale=pt-br"/>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
+
 </table>
 <table>
-<tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/arthur140p" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
-</tr>
-<tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/arthur140p/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
-</td>
-</tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
+
+
 </tr> 
 </table>
 <table>
@@ -125,8 +102,9 @@
 <tr>
  <td align="center"></td>
 </tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://arthur140p.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+
+ <tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
 </tr>
 <tr>
  <td align="center"></td>
@@ -139,13 +117,13 @@
 
 ------
 
-#spotify
 
------
+
+
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://Arthur140p.github.io/image/spotify.gif?raw=true"/> Arthur's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Arthur's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mib8yj8y8aixuejdzzs756h43" alt="Data Card for Spotify">
 </details>
 </div>
@@ -157,14 +135,14 @@
 </tr> 
 <tr>
 <td>
+<!-- <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> --!>
+ 
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
-<td>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=mib8yj8y8aixuejdzzs756h43&count=10"/>
+ 
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/arthur140p" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=arthur140p&width=400"/></a>
+<img alt="Spotify list" width="300px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=mib8yj8y8aixuejdzzs756h43"/>
 </td>
 </tr>
 <tr>
@@ -174,17 +152,10 @@
 </div>
  
  
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-</div>
 
 -----
-# contador de views
+<p> Contador De Views</p>
 
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=arthur140p"/>
 
