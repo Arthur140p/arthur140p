@@ -17,16 +17,16 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/arthur140p" target="_blank"> <img width="700" height="500" alt="github" src="https://github.com/user-attachments/assets/61972be4-515c-4ee3-af5d-afae27279611" /></a>
+<td><a href="https://github.com/arthur140p" target="_blank"> <img width="50" height="50" alt="github" src="https://github.com/user-attachments/assets/61972be4-515c-4ee3-af5d-afae27279611" /></a>
 </td>
-<td><a href="mailto:arthuravila2017@gmail.com" target="_blank"><img width="70" height="500" alt="gmail" src="https://github.com/user-attachments/assets/614e004b-4991-453a-9862-deb9abe6e3c1" /></a>
+<td><a href="mailto:arthuravila2017@gmail.com" target="_blank"><img width="50" height="50" alt="gmail" src="https://github.com/user-attachments/assets/614e004b-4991-453a-9862-deb9abe6e3c1" /></a>
 </td>
-<td><a href="https://www.instagram.com/arthuravila0/" target="_blank"><img width="70" height="500" alt="insta" src="https://github.com/user-attachments/assets/edd9afd8-37a0-4edc-ab2f-bbdbe37161d3" /></a>
+<td><a href="https://www.instagram.com/arthuravila0/" target="_blank"><img width="50" height="50" alt="insta" src="https://github.com/user-attachments/assets/edd9afd8-37a0-4edc-ab2f-bbdbe37161d3" /></a>
 </td>
-<td><a href="https://www.linkedin.com/in/arthur140p/" target="_blank"><img width="70" height="500" alt="linked" src="https://github.com/user-attachments/assets/49833dfb-b2ba-4243-ba9e-dccec24aeb56" /></a>
-<td><a href="https://wa.me/5531998912470" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="500"/></a>
+<td><a href="https://www.linkedin.com/in/arthur140p/" target="_blank"><img width="50" height="50" alt="linked" src="https://github.com/user-attachments/assets/49833dfb-b2ba-4243-ba9e-dccec24aeb56" /></a>
+<td><a href="https://wa.me/5531998912470" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50" height="50"/></a>
 </td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img width="70" height="500" alt="disc" src="https://github.com/user-attachments/assets/f20f0e6b-4c56-4fa9-8647-248ef8fee148" /></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img width="50" height="50" alt="disc" src="https://github.com/user-attachments/assets/f20f0e6b-4c56-4fa9-8647-248ef8fee148" /></a>
 </td>
 </tr>
 <tr>
