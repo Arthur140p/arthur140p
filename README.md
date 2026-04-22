@@ -135,7 +135,7 @@
 </tr> 
 <tr>
 <td>
-<!-- <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> --!>
+ <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> 
  
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
