@@ -42,7 +42,7 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://arthur140p.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
@@ -121,35 +121,7 @@
 
 
 
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Arthur's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mib8yj8y8aixuejdzzs756h43" alt="Data Card for Spotify">
-</details>
-</div>
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
- <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> 
- 
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mib8yj8y8aixuejdzzs756h43&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</td>
- 
-</td>
-<td>
-<img alt="Spotify list" width="300px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=mib8yj8y8aixuejdzzs756h43"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-</div>
  
  
 
