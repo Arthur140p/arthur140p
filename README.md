@@ -17,7 +17,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/arthur140p" target="_blank"> <img width="70" height="500" alt="github" src="https://github.com/user-attachments/assets/61972be4-515c-4ee3-af5d-afae27279611" /></a>
+<td><a href="https://github.com/arthur140p" target="_blank"> <img width="700" height="500" alt="github" src="https://github.com/user-attachments/assets/61972be4-515c-4ee3-af5d-afae27279611" /></a>
 </td>
 <td><a href="mailto:arthuravila2017@gmail.com" target="_blank"><img width="70" height="500" alt="gmail" src="https://github.com/user-attachments/assets/614e004b-4991-453a-9862-deb9abe6e3c1" /></a>
 </td>
